@@ -14,3 +14,5 @@ Table Columns:
 - license plate | SMALLINT | NULL
 - places |  FLOAT(2) | NULL
 - extra accessories | TEXT | NULL 
+- vote | FLOAT(2, 1) | DEFAULT(0)
+- extra info | TEXT | NULL
